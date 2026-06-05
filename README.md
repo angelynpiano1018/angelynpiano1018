@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi, Im Angelyn T. Piano and this is my PORTFOLIO❤️
 
 Hello! I'm **angelynpiano1018**, a **Bachelor of Science in Information Systems** student (2nd Year) passionate about software development, photography, and continuous learning.
 
