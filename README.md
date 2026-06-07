@@ -23,8 +23,8 @@ Programming Languages  | Tools & Platforms   | Core Competencies
 ──────────────────────┼────────────────────┼──────────────────────
 Java                  | NetBeans           | Object-Oriented Programming
 JavaScript            | Git & GitHub       | Database Management
-Python                | Linux              | System Design
-HTML/CSS              | VS Code            | Problem-Solving
+HTML/CSS              | Linux              | System Design
+                      | VS Code            | Problem-Solving
                       | MySQL              | Documentation
 ```
 
